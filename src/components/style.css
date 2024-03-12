@@ -1,0 +1,43 @@
+.bike{
+width:440px;
+height: 430px;
+background-color: rgb(146, 153, 154);
+margin-top: 5rem;
+margin-left: 4rem;
+border-radius: 1rem;
+
+
+}
+
+img{
+
+padding-top: 2rem;
+padding-left: 4rem;
+
+}
+
+h1{
+
+width: 200px;
+font-size: large;
+justify-items: center;
+text-align: center;
+padding-left: 140px;
+margin-top: 1rem;
+color: red;
+}
+
+h2,p{
+
+padding-left: 2rem;
+font: 100;
+font-size: 1rem;
+color: green;
+
+}
+
+#btn{
+margin-left: 2rem;
+background-color: gray;
+border-radius: 1px;
+}
